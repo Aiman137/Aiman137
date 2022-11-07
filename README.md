@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aiman137 and i'm studying electronics
+- 👋 Hi, I’m @Aiman137 and i'm currently studying electronics in Barcelona.
 - 📫 How to reach me: aimanlascaux@hotmail.com
 
 <!---
